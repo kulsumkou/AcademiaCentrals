@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815282810075",
+    "project_id": "academia-centrals",
+    "storage_bucket": "academia-centrals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815282810075:android:a687920563e28c8e31b0fe",
+        "android_client_info": {
+          "package_name": "com.example.academia_centrals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABFZcdRTQiqDFWGdBfOHd8PnIxFsHpNAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
